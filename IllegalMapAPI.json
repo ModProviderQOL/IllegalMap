@@ -1,0 +1,17 @@
+{
+    "moduleName": "IllegalMap",
+    "latestVersion": "5.5.0",
+    "author": "UnclaimedBloom6",
+    "changelog": [
+        "Refactored a bunch of stuff. If you are using IllegalMap as a library, check import paths after updating.",
+        "Changed scanning hashes to ignore only iron bars and chests",
+        "Improved the update checker",
+        "Deprecating IllegalMapAPI.json due to new update checker",
+        "Improved star mob ESP performance",
+        "Added more error handling",
+        "Added caching for player UUIDs and head images",
+        "Fixed incorrect rotation for converting between room and real coords",
+        "Added map scores to dungeon logs"
+    ]
+    
+}
